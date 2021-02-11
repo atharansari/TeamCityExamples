@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TeamCityExamples_NUnit
 {
+    class SampleClass
+    {
+    }
     class Money : IMoney
     {
 
